@@ -6,7 +6,7 @@ My first repository
 # 🐎 **Spirit: Stallion of the Cimarron**  
 > _“Somewhere… there’s a wild horse who can’t be broken.”_
 
-![Spirit Poster](https://upload.wikimedia.org/wikipedia/en/9/9d/Spirit_Stallion_of_the_Cimarron_poster.jpg)
+![Spirit Poster]([https://upload.wikimedia.org/wikipedia/en/9/9d/Spirit_Stallion_of_the_Cimarron_poster.jpg](https://m.media-amazon.com/images/I/71E+zP7Qy4L._AC_UF894,1000_QL80_.jpg))
 
 ---
 
